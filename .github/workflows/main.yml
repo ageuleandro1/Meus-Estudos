@@ -24,6 +24,6 @@ jobs:
           context: .
           push: true
           tags: |
-            ageuleandro/PrimeiroProjeto:v1
-            ageuleandro/PrimeiroProjeto:latest
+            ageuleandro/primeiro-projeto:v1
+            ageuleandro/primeiro-projeto:latest
       
